@@ -14,7 +14,7 @@ To start the visualization you must add a start node (blue) and an end node (red
 		The algorithm supports finding paths with diagonal moves. To enable this just check the 
 		diagonals box.
 		
-![diagonals](https://github.com/LefterisKalligiannakis/Pathfinding-Visualization/assets/70850509/b69bea95-3c37-4b8e-a8b9-c60c01baf80b)
+	![diagonals](https://github.com/LefterisKalligiannakis/Pathfinding-Visualization/assets/70850509/b69bea95-3c37-4b8e-a8b9-c60c01baf80b)
 
 	
 	-Visualize:
