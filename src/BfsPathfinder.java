@@ -1,6 +1,5 @@
 /*
-    This class is connected to the @Frame class.
-    Contains a bfs pathfinding algorithms as well as some other methods
+    Contains the bfs pathfinding algorithm as well as some other methods
     for visualizing the process of finding the path and showing it.
 
     @author Eleftherios Kalligiannakis
